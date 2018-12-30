@@ -3,7 +3,7 @@ Statistics and its business application
 
 
 A Review of  MCDA 5520 Cases
- Firestone Canada Inc.
+  Firestone Canada Inc.
 • Retailing, marketing
 • Probability estimation, probability distribution and expected value
 • Business risk
